@@ -1,0 +1,6 @@
+tensorflow==2.9.1
+gym[atari]
+autorom[accept-rom-license]
+tensorflow_probability
+ray
+
